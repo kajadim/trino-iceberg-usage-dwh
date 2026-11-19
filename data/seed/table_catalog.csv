@@ -1,0 +1,17 @@
+catalog_name,schema_name,table_name,owner,domain,source_type
+iceberg,analytics,orders,team_analytics,sales,iceberg
+iceberg,analytics,customers,team_analytics,sales,iceberg
+iceberg,analytics,payments,team_finance,finance,iceberg
+iceberg,analytics,shipments,team_operations,operations,iceberg
+iceberg,analytics,products,team_analytics,product,iceberg
+iceberg,finance,invoices,team_finance,finance,iceberg
+iceberg,finance,transactions,team_finance,finance,iceberg
+iceberg,finance,budgets,team_finance,finance,iceberg
+iceberg,marketing,campaigns,team_marketing,marketing,iceberg
+iceberg,marketing,clicks,team_marketing,marketing,iceberg
+iceberg,marketing,impressions,team_marketing,marketing,iceberg
+iceberg,operations,inventory,team_operations,operations,iceberg
+iceberg,operations,warehouses,team_operations,operations,iceberg
+iceberg,support,tickets,team_support,support,iceberg
+iceberg,support,agents,team_support,support,iceberg
+postgres,legacy,customer_archive,team_data,customer_data,postgres

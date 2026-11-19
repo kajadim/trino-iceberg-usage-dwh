@@ -158,6 +158,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+warehouse/
+data/sample/
 
 # Conda environments
 conda-meta/

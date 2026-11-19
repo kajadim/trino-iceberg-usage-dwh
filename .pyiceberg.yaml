@@ -1,0 +1,5 @@
+catalog:
+  default:
+    type: sql
+    uri: sqlite:///./warehouse/pyiceberg_catalog.db
+    warehouse: "./warehouse"
